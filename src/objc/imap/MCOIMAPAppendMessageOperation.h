@@ -12,8 +12,8 @@
 
 /** This class implements an operation that adds a message to a folder. */
 
-#import <MailCore/MCOIMAPBaseOperation.h>
-#import <MailCore/MCOConstants.h>
+#import "MCOIMAPBaseOperation.h"
+#import "MCOConstants.h"
 
 NS_ASSUME_NONNULL_BEGIN
 @interface MCOIMAPAppendMessageOperation : MCOIMAPBaseOperation

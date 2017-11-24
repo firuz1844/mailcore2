@@ -10,9 +10,9 @@
 
 #define MAILCORE_MCPROVIDER_H
 
-#include <MailCore/MCMailProvidersManager.h>
-#include <MailCore/MCMailProvider.h>
-#include <MailCore/MCNetService.h>
-#include <MailCore/MCAccountValidator.h>
+#include "MCMailProvidersManager.h"
+#include "MCMailProvider.h"
+#include "MCNetService.h"
+#include "MCAccountValidator.h"
 
 #endif

@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCADDRESSDISPLAY_H
 
-#include <MailCore/MCAbstract.h>
+#include "MCAbstract.h"
 
 #ifdef __cplusplus
 

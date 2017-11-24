@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOOperation.h>
-#import <MailCore/MCOConstants.h>
+#import "MCOOperation.h"
+#import "MCOConstants.h"
 
 /**
  This class is used to validate an email provider and it's associated

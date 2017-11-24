@@ -12,7 +12,7 @@
 
 /** This class implements a generic IMAP operation */
 
-#import <MailCore/MCOIMAPBaseOperation.h>
+#import "MCOIMAPBaseOperation.h"
 
 
 NS_ASSUME_NONNULL_BEGIN

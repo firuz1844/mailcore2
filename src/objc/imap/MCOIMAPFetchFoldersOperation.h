@@ -12,7 +12,7 @@
 
 /** This class implements an operation to fetch a list of folders. */
 
-#import <MailCore/MCOIMAPBaseOperation.h>
+#import "MCOIMAPBaseOperation.h"
 
 NS_ASSUME_NONNULL_BEGIN
 @interface MCOIMAPFetchFoldersOperation : MCOIMAPBaseOperation

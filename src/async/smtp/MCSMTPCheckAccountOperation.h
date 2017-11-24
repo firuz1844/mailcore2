@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCSMTPCHECKACCOUNTOPERATION_H
 
-#include <MailCore/MCSMTPOperation.h>
-#include <MailCore/MCAbstract.h>
+#include "MCSMTPOperation.h"
+#include "MCAbstract.h"
 
 #ifdef __cplusplus
 

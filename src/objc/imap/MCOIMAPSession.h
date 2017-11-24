@@ -11,7 +11,7 @@
 #define MAILCORE_MCOIMAPSESSION_H
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOConstants.h>
+#import "MCOConstants.h"
 
 @class MCOIMAPFetchFoldersOperation;
 @class MCOIMAPOperation;

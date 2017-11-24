@@ -3,7 +3,7 @@
 #define MAILCORE_MCOPERATION_H
 
 #include <pthread.h>
-#include <MailCore/MCObject.h>
+#include "MCObject.h"
 
 #ifdef __cplusplus
 

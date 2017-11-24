@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCMD5_H
 
-#include <MailCore/MCData.h>
-#include <MailCore/MCString.h>
+#include "MCData.h"
+#include "MCString.h"
 
 #ifdef __cplusplus
 

@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOIMAPOperation.h>
+#import "MCOIMAPOperation.h"
 
 /* The class is used to perform a disconnect operation. */
 @interface MCOIMAPMultiDisconnectOperation : MCOIMAPOperation

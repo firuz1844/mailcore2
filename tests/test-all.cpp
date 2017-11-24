@@ -8,7 +8,7 @@
 
 #include "test-all.h"
 
-#include <MailCore/MailCore.h>
+#include "MailCore.h"
 #if __APPLE__
 #include <CoreFoundation/CoreFoundation.h>
 #endif

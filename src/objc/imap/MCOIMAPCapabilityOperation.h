@@ -15,7 +15,7 @@
  like for example the extensions UIDPLUS, IDLE, NAMESPACE, ... etc
 */
 
-#import <MailCore/MCOIMAPBaseOperation.h>
+#import "MCOIMAPBaseOperation.h"
 
 @class MCOIndexSet;
 

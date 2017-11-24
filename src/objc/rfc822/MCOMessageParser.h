@@ -16,7 +16,7 @@
  you need to parse it.
 */
 
-#import <MailCore/MCOAbstractMessage.h>
+#import "MCOAbstractMessage.h"
 
 @protocol MCOHTMLRendererDelegate;
 

@@ -2,7 +2,7 @@
 
 #define MAILCORE_MCNNTPASYNCSESSION_H
 
-#include <MailCore/MCBaseTypes.h>
+#include "MCBaseTypes.h"
 
 #ifdef __cplusplus
 

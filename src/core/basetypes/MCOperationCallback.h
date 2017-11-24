@@ -2,7 +2,7 @@
 
 #define MAILCORE_MCOPERATIONCALLBACK_H
 
-#include <MailCore/MCUtils.h>
+#include "MCUtils.h"
 
 #ifdef __cplusplus
 

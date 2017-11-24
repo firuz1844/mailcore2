@@ -14,7 +14,7 @@
 #import "MCOUtils.h"
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCAsync.h>
+#import "MCAsync.h"
 
 using namespace mailcore;
 

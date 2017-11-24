@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCCONNECTIONLOGGERUTILS_H
 
-#include <MailCore/MCConnectionLogger.h>
+#include "MCConnectionLogger.h"
 
 namespace mailcore {
     

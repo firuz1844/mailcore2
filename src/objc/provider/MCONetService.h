@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOConstants.h>
+#import "MCOConstants.h"
 
 /**
    This class provides a specific way to access a given service

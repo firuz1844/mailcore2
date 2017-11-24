@@ -4,8 +4,8 @@
 
 #include <stdlib.h>
 
-#include <MailCore/MCObject.h>
-#include <MailCore/MCMessageConstants.h>
+#include "MCObject.h"
+#include "MCMessageConstants.h"
 
 #ifdef __APPLE__
 #import <CoreFoundation/CoreFoundation.h>

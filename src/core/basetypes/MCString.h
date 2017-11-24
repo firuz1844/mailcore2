@@ -2,9 +2,9 @@
 
 #define MAILCORE_MCSTR_H
 
-#include <MailCore/MCObject.h>
-#include <MailCore/MCRange.h>
-#include <MailCore/MCICUTypes.h>
+#include "MCObject.h"
+#include "MCRange.h"
+#include "MCICUTypes.h"
 
 #include <stdlib.h>
 #include <stdarg.h>

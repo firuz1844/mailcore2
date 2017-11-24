@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCIMAPFETCHFOLDERSOPERATION_H
 
-#include <MailCore/MCBaseTypes.h>
-#include <MailCore/MCIMAPOperation.h>
+#include "MCBaseTypes.h"
+#include "MCIMAPOperation.h"
 
 #ifdef __cplusplus
 

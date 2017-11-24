@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCPOPFETCHHEADEROPERATION_H
 
-#include <MailCore/MCPOPOperation.h>
+#include "MCPOPOperation.h"
 
 #ifdef __cplusplus
 

@@ -15,8 +15,8 @@
  It can be a part or a full message.
 */
 
-#import <MailCore/MCOIMAPBaseOperation.h>
-#import <MailCore/MCOConstants.h>
+#import "MCOIMAPBaseOperation.h"
+#import "MCOConstants.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

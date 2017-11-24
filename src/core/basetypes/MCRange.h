@@ -6,7 +6,7 @@
 
 #include <inttypes.h>
 
-#include <MailCore/MCUtils.h>
+#include "MCUtils.h"
 
 #ifndef UINT64_MAX
 # define UINT64_MAX 18446744073709551615ULL

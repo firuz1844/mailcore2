@@ -9,7 +9,7 @@
 #ifndef MAILCORE_OPERATIONQUEUECALLBACK_H
 #define MAILCORE_OPERATIONQUEUECALLBACK_H
 
-#include <MailCore/MCUtils.h>
+#include "MCUtils.h"
 
 #ifdef __cplusplus
 

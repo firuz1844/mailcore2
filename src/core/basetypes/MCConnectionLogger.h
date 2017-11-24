@@ -12,7 +12,7 @@
 
 #include <stdlib.h>
 
-#include <MailCore/MCUtils.h>
+#include "MCUtils.h"
 
 #ifdef __cplusplus
 

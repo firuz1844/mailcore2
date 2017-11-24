@@ -10,9 +10,9 @@
 
 #define MAILCORE_MCJSONPARSER_H
 
-#include <MailCore/MCObject.h>
-#include <MailCore/MCICUTypes.h>
-#include <MailCore/MCUtils.h>
+#include "MCObject.h"
+#include "MCICUTypes.h"
+#include "MCUtils.h"
 
 namespace mailcore {
     

@@ -24,8 +24,8 @@
  [MCOIMAPSession fetchMessageByUIDOperationWithFolder:uid:]
 */
 
-#import <MailCore/MCOAbstractMessage.h>
-#import <MailCore/MCOConstants.h>
+#import "MCOAbstractMessage.h"
+#import "MCOConstants.h"
 
 @protocol MCOHTMLRendererIMAPDelegate;
 

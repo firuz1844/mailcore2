@@ -10,8 +10,8 @@
 
 #define MAILCORE_MAILCORE_H
 
-#include <MailCore/MCCore.h>
-#include <MailCore/MCAsync.h>
-#include <MailCore/MCObjC.h>
+#include "MCCore.h"
+#include "MCAsync.h"
+#include "MCObjC.h"
 
 #endif

@@ -2,8 +2,8 @@
 
 #ifdef __cplusplus
 
-#include <MailCore/MCMessageConstants.h>
-#include <MailCore/MCBaseTypes.h>
+#include "MCMessageConstants.h"
+#include "MCBaseTypes.h"
 
 namespace mailcore {
     

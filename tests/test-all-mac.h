@@ -9,7 +9,7 @@
 #ifndef __mailcore2__test_all_mac__
 #define __mailcore2__test_all_mac__
 
-#include <MailCore/MailCore.h>
+#include "MailCore.h"
 
 extern void testAllMac();
 

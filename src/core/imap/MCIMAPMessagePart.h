@@ -2,7 +2,7 @@
 
 #define MAILCORE_IMAPMESSAGEPART_H
 
-#include <MailCore/MCAbstractMessagePart.h>
+#include "MCAbstractMessagePart.h"
 
 #ifdef __cplusplus
 

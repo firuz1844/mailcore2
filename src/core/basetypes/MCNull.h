@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCNULL_H
 
-#include <MailCore/MCObject.h>
+#include "MCObject.h"
 
 #ifdef __cplusplus
 

@@ -2,7 +2,7 @@
 
 #define MAILCORE_MCAUTORELEASEPOOL_H
 
-#include <MailCore/MCObject.h>
+#include "MCObject.h"
 #include <pthread.h>
 
 #ifdef __cplusplus

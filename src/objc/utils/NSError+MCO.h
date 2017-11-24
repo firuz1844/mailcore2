@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <MailCore/MCMessageConstants.h>
+#import "MCMessageConstants.h"
 
 @interface NSError (MCO)
 #ifdef __cplusplus

@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <XCTest/XCTest.h>
-#import <MailCore/MailCore.h>
+#import "MailCore.h"
 
 @interface MCOMessageBuilder (UnitTest)
 

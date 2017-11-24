@@ -11,7 +11,7 @@
 #define MAILCORE_MCCERTIFICATEUTILS_H
 
 #include <libetpan/libetpan.h>
-#include <MailCore/MCString.h>
+#include "MCString.h"
 
 namespace mailcore {
     

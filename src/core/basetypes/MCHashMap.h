@@ -2,7 +2,7 @@
 
 #define MAILCORE_MCHASHMAP_H
 
-#include <MailCore/MCObject.h>
+#include "MCObject.h"
 
 #ifdef __cplusplus
 

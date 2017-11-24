@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCIMAPNOOPOPERATION_H
 
-#include <MailCore/MCIMAPOperation.h>
+#include "MCIMAPOperation.h"
 
 #ifdef __cplusplus
 

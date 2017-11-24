@@ -2,7 +2,7 @@
 
 #define MAILCORE_MCERRORMESSAGE_H
 
-#include <MailCore/MCBaseTypes.h>
+#include "MCBaseTypes.h"
 
 namespace mailcore {
 String * errorMessageWithErrorCode(ErrorCode errorCode);

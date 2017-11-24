@@ -12,7 +12,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <MailCore/MCOConstants.h>
+#import "MCOConstants.h"
 
 /** 
  This class is used to create an SMTP connection and send messages

@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCOIMAPFOLDERSTATUSOPERATION_H
 
-#import <MailCore/MCOIMAPBaseOperation.h>
+#import "MCOIMAPBaseOperation.h"
 
 /**
  The class is used to get folder metadata (like UIDVALIDITY, UIDNEXT, etc).

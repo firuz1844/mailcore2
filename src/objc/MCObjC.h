@@ -12,14 +12,14 @@
 
 #ifdef __OBJC__
 
-#import <MailCore/MCOUtils.h>
-#import <MailCore/MCOAbstract.h>
-#import <MailCore/MCOIMAP.h>
-#import <MailCore/MCORFC822.h>
-#import <MailCore/MCOPOP.h>
-#import <MailCore/MCOSMTP.h>
-#import <MailCore/MCONNTP.h>
-#import <MailCore/MCOProvider.h>
+#import "MCOUtils.h"
+#import "MCOAbstract.h"
+#import "MCOIMAP.h"
+#import "MCORFC822.h"
+#import "MCOPOP.h"
+#import "MCOSMTP.h"
+#import "MCONNTP.h"
+#import "MCOProvider.h"
 
 #endif
 

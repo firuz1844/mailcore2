@@ -10,14 +10,14 @@
 
 #define MAILCORE_MCCORE_H
 
-#include <MailCore/MCAbstract.h>
-#include <MailCore/MCBaseTypes.h>
-#include <MailCore/MCIMAP.h>
-#include <MailCore/MCPOP.h>
-#include <MailCore/MCNNTP.h>
-#include <MailCore/MCRFC822.h>
-#include <MailCore/MCSMTP.h>
-#include <MailCore/MCRenderer.h>
-#include <MailCore/MCProvider.h>
+#include "MCAbstract.h"
+#include "MCBaseTypes.h"
+#include "MCIMAP.h"
+#include "MCPOP.h"
+#include "MCNNTP.h"
+#include "MCRFC822.h"
+#include "MCSMTP.h"
+#include "MCRenderer.h"
+#include "MCProvider.h"
 
 #endif

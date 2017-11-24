@@ -12,7 +12,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <MailCore/MCORange.h>
+#import "MCORange.h"
 
 /** similar to NSMutableIndexSet but supports int64_t.  MCORange has a location (uint64_t) and length (uint64_t). */
 

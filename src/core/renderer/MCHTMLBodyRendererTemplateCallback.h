@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCHTMLBODYRENDERERTEMPLATECALLBACK_H
 
-#include <MailCore/MCHTMLRendererCallback.h>
-#include <MailCore/MCUtils.h>
+#include "MCHTMLRendererCallback.h"
+#include "MCUtils.h"
 
 #ifdef __cplusplus
 

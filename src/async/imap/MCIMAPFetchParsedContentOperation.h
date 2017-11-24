@@ -10,9 +10,9 @@
 
 #define MAILCORE_IMAPFETCHPARSEDCONTENTOPERATION_H
 
-#include <MailCore/MCIMAPOperation.h>
+#include "MCIMAPOperation.h"
 
-#include <MailCore/MCRFC822.h>
+#include "MCRFC822.h"
 
 #ifdef __cplusplus
 

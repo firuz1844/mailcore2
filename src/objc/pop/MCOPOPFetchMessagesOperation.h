@@ -11,7 +11,7 @@
 #define MAILCORE_MCOPOPFETCHMESSAGESOPERATION_H
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOPOPOperation.h>
+#import "MCOPOPOperation.h"
 
 /** This is an asynchronous operation that will fetch the list of a messages on the POP3 account. */
 

@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCNNTPFETCHARTICLEOPERATION_H
 
-#include <MailCore/MCNNTPOperation.h>
+#include "MCNNTPOperation.h"
 
 #ifdef __cplusplus
 

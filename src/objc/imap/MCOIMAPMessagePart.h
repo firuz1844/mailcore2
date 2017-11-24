@@ -12,7 +12,7 @@
 
 /** Represents a message part. */
 
-#import <MailCore/MCOAbstractMessagePart.h>
+#import "MCOAbstractMessagePart.h"
 
 @interface MCOIMAPMessagePart : MCOAbstractMessagePart <NSCoding>
 

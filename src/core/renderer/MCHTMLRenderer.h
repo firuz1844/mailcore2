@@ -10,9 +10,9 @@
 
 #define MAILCORE_MCHTMLRENDERER_H
 
-#include <MailCore/MCAbstract.h>
-#include <MailCore/MCIMAP.h>
-#include <MailCore/MCRFC822.h>
+#include "MCAbstract.h"
+#include "MCIMAP.h"
+#include "MCRFC822.h"
 
 #ifdef __cplusplus
 

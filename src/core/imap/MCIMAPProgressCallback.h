@@ -4,7 +4,7 @@
 
 #ifdef __cplusplus
 
-#include <MailCore/MCUtils.h>
+#include "MCUtils.h"
 
 namespace mailcore {
     

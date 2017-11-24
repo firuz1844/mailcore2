@@ -10,9 +10,9 @@
 
 #define MAILCORE_MCNNTPPOSTOPERATION_H
 
-#include <MailCore/MCBaseTypes.h>
-#include <MailCore/MCAbstract.h>
-#include <MailCore/MCNNTPOperation.h>
+#include "MCBaseTypes.h"
+#include "MCAbstract.h"
+#include "MCNNTPOperation.h"
 
 #ifdef __cplusplus
 

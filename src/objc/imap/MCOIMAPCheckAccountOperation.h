@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCOIMAPCHECKACCOUNTOPERATION_H
 
-#import <MailCore/MCOIMAPOperation.h>
+#import "MCOIMAPOperation.h"
 
 NS_ASSUME_NONNULL_BEGIN
 /* The class is used to perform a No-Op operation. */

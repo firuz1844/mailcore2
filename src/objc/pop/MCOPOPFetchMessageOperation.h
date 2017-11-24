@@ -11,7 +11,7 @@
 #define MAILCORE_MCOPOPFETCHMESSAGEOPERATION_H
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOPOPOperation.h>
+#import "MCOPOPOperation.h"
 
 /** Fetch a message from POP3 */
 

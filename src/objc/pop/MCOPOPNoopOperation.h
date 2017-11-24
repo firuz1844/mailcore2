@@ -11,7 +11,7 @@
 #define MAILCORE_MCOPOPNOOPOPERATION_H
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOPOPOperation.h>
+#import "MCOPOPOperation.h"
 
 /** This is an asynchronous operation that will perform a No-Op on the POP3 account. */
 

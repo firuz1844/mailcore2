@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCOATTACHMENT_H
 
-#import <MailCore/MCOAbstractPart.h>
+#import "MCOAbstractPart.h"
 
 /** This is a single part.
 

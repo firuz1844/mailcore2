@@ -10,14 +10,14 @@
 
 #define MAILCORE_MCOABSTRACT_H
 
-#import <MailCore/MCOAbstractMessage.h>
-#import <MailCore/MCOAbstractMessagePart.h>
-#import <MailCore/MCOAbstractMultipart.h>
-#import <MailCore/MCOAbstractPart.h>
-#import <MailCore/MCOAddress.h>
-#import <MailCore/MCOConstants.h>
-#import <MailCore/MCOMessageHeader.h>
-#import <MailCore/MCOHTMLRendererDelegate.h>
-#import <MailCore/MCOHTMLRendererIMAPDelegate.h>
+#import "MCOAbstractMessage.h"
+#import "MCOAbstractMessagePart.h"
+#import "MCOAbstractMultipart.h"
+#import "MCOAbstractPart.h"
+#import "MCOAddress.h"
+#import "MCOConstants.h"
+#import "MCOMessageHeader.h"
+#import "MCOHTMLRendererDelegate.h"
+#import "MCOHTMLRendererIMAPDelegate.h"
 
 #endif

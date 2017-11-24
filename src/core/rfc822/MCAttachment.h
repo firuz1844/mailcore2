@@ -2,10 +2,10 @@
 
 #define MAILCORE_MCATTACHMENT_H
 
-#include <MailCore/MCBaseTypes.h>
-#include <MailCore/MCAbstractPart.h>
-#include <MailCore/MCAbstractMultipart.h>
-#include <MailCore/MCMessageConstants.h>
+#include "MCBaseTypes.h"
+#include "MCAbstractPart.h"
+#include "MCAbstractMultipart.h"
+#include "MCMessageConstants.h"
 
 #ifdef __cplusplus
 

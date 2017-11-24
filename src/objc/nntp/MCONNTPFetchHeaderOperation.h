@@ -11,7 +11,7 @@
 #define MAILCORE_MCONNTPFETCHHEADEROPERATION_H
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCONNTPOperation.h>
+#import "MCONNTPOperation.h"
 
 /** 
  This is an asynchronous operation that will fetch the header of a message.

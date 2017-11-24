@@ -12,7 +12,7 @@
 
 /** Represents the a multipart retrieved from IMAP */
 
-#import <MailCore/MCOAbstractMultipart.h>
+#import "MCOAbstractMultipart.h"
 
 @interface MCOIMAPMultipart : MCOAbstractMultipart <NSCoding>
 

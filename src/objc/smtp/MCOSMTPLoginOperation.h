@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCOSMTPLOGINOPERATION_H
 
-#import <MailCore/MCOSMTPOperation.h>
+#import "MCOSMTPOperation.h"
 
 /** This is an asynchronous operation that will perform a noop operation through SMTP. */
 NS_ASSUME_NONNULL_BEGIN

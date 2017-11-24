@@ -8,7 +8,7 @@
 
 #include "test-all-mac.h"
 
-#include <MailCore/MailCore.h>
+#include "MailCore.h"
 
 extern "C" {
   extern int mailstream_debug;

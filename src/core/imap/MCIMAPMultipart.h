@@ -2,7 +2,7 @@
 
 #define MAILCORE_MCIMAPMULTIPART_H
 
-#include <MailCore/MCAbstractMultipart.h>
+#include "MCAbstractMultipart.h"
 
 #ifdef __cplusplus
 

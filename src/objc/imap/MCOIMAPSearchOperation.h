@@ -12,7 +12,7 @@
 
 /** This class runs an IMAP search operation */
 
-#import <MailCore/MCOIMAPBaseOperation.h>
+#import "MCOIMAPBaseOperation.h"
 
 @class MCOIndexSet;
 

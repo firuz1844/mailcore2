@@ -9,8 +9,8 @@
 
 #define MAILCORE_MCDATADECODERUTILS_H
 
-#include <MailCore/MCData.h>
-#include <MailCore/MCMessageConstants.h>
+#include "MCData.h"
+#include "MCMessageConstants.h"
 
 #ifdef __cplusplus
 

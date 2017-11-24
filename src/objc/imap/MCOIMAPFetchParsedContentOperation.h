@@ -14,8 +14,8 @@
  This class implements an operation to fetch the parsed content of a message.
 */
 
-#import <MailCore/MCOIMAPBaseOperation.h>
-#import <MailCore/MCOConstants.h>
+#import "MCOIMAPBaseOperation.h"
+#import "MCOConstants.h"
 
 @class MCOMessageParser;
 

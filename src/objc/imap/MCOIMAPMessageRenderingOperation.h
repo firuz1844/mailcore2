@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCOIMAPMESSAGERENDERINGOPERATION_H
 
-#import <MailCore/MCOIMAPBaseOperation.h>
+#import "MCOIMAPBaseOperation.h"
 
 /**
  The class is used to get the HTML string of a message.

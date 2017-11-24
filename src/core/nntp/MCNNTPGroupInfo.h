@@ -2,7 +2,7 @@
 
 #define MAILCORE_MCNNTPGROUPINFO_H
 
-#include <MailCore/MCBaseTypes.h>
+#include "MCBaseTypes.h"
 
 #ifdef __cplusplus
 

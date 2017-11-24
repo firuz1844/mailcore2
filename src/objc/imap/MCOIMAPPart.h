@@ -10,9 +10,9 @@
 
 #define MAILCORE_MCOIMAPABSTRACTPART_H
 
-#import <MailCore/MCOAbstractPart.h>
+#import "MCOAbstractPart.h"
 
-#import <MailCore/MCOConstants.h>
+#import "MCOConstants.h"
 
 /** Represents a single IMAP message part */
 

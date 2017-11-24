@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCIMAPSEARCHOPERATION_H
 
-#include <MailCore/MCIMAPOperation.h>
-#include <MailCore/MCMessageConstants.h>
+#include "MCIMAPOperation.h"
+#include "MCMessageConstants.h"
 
 #ifdef __cplusplus
 

@@ -16,7 +16,7 @@
  See [RFC2177](http://tools.ietf.org/html/rfc2177)
 */
 
-#import <MailCore/MCOIMAPBaseOperation.h>
+#import "MCOIMAPBaseOperation.h"
 
 NS_ASSUME_NONNULL_BEGIN
 @interface MCOIMAPIdleOperation : MCOIMAPBaseOperation

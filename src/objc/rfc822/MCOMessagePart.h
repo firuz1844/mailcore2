@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCOMESSAGEPART_H
 
-#import <MailCore/MCOAbstractMessagePart.h>
+#import "MCOAbstractMessagePart.h"
 
 /** Message part parsed from RFC 822 message data. */
 

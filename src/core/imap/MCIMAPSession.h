@@ -2,9 +2,9 @@
 
 #define MAILCORE_MCIMAPSESSION_H
 
-#include <MailCore/MCBaseTypes.h>
-#include <MailCore/MCMessageConstants.h>
-#include <MailCore/MCIMAPMessage.h>
+#include "MCBaseTypes.h"
+#include "MCMessageConstants.h"
+#include "MCIMAPMessage.h"
 
 #ifdef __cplusplus
 

@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCASYNCSMTP_H
 
-#include <MailCore/MCSMTPAsyncSession.h>
-#include <MailCore/MCSMTPOperation.h>
-#include <MailCore/MCSMTPOperationCallback.h>
+#include "MCSMTPAsyncSession.h"
+#include "MCSMTPOperation.h"
+#include "MCSMTPOperationCallback.h"
 
 #endif

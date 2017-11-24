@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCIMAPMessageRenderingOperation_H
 
-#include <MailCore/MCIMAPOperation.h>
-#include <MailCore/MCIMAPMessage.h>
+#include "MCIMAPOperation.h"
+#include "MCIMAPMessage.h"
 
 #ifdef __cplusplus
 

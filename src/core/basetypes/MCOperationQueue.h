@@ -4,8 +4,8 @@
 
 #include <pthread.h>
 #include <semaphore.h>
-#include <MailCore/MCObject.h>
-#include <MailCore/MCLibetpanTypes.h>
+#include "MCObject.h"
+#include "MCLibetpanTypes.h"
 
 #ifdef __cplusplus
 

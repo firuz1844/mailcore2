@@ -2,7 +2,7 @@
 
 #define MAILCORE_MCMESSAGEHEADER_H
 
-#include <MailCore/MCBaseTypes.h>
+#include "MCBaseTypes.h"
 #include <time.h>
 
 #ifdef __cplusplus

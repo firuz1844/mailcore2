@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCDATEFORMATTER_H
 
-#include <MailCore/MCBaseTypes.h>
+#include "MCBaseTypes.h"
 
 // predeclare UDateFormat
 // copied from <unicode/udat.h>

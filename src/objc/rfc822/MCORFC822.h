@@ -10,10 +10,10 @@
 
 #define MAILCORE_MCORFC822_H
 
-#import <MailCore/MCOAttachment.h>
-#import <MailCore/MCOMessageBuilder.h>
-#import <MailCore/MCOMessageParser.h>
-#import <MailCore/MCOMessagePart.h>
-#import <MailCore/MCOMultipart.h>
+#import "MCOAttachment.h"
+#import "MCOMessageBuilder.h"
+#import "MCOMessageParser.h"
+#import "MCOMessagePart.h"
+#import "MCOMultipart.h"
 
 #endif

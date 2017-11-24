@@ -12,7 +12,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <MailCore/MCOConstants.h>
+#import "MCOConstants.h"
 
 @class MCONNTPFetchAllArticlesOperation;
 @class MCONNTPFetchHeaderOperation;

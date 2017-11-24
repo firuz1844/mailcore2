@@ -10,11 +10,11 @@
 
 #define MAILCORE_ITERATOR_H
 
-#include <MailCore/MCArray.h>
-#include <MailCore/MCHashMap.h>
-#include <MailCore/MCIndexSet.h>
-#include <MailCore/MCAutoreleasePool.h>
-#include <MailCore/MCAssert.h>
+#include "MCArray.h"
+#include "MCHashMap.h"
+#include "MCIndexSet.h"
+#include "MCAutoreleasePool.h"
+#include "MCAssert.h"
 #include <string.h>
 
 #ifdef __cplusplus

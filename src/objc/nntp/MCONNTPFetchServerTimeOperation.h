@@ -11,7 +11,7 @@
 #define MAILCORE_MCONNTPFETCHSERVERTIMEOPERATION_H
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCONNTPOperation.h>
+#import "MCONNTPOperation.h"
 
 @class MCOIndexSet;
 

@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCPOPOPERATION_H
 
-#include <MailCore/MCBaseTypes.h>
-#include <MailCore/MCPOPProgressCallback.h>
+#include "MCBaseTypes.h"
+#include "MCPOPProgressCallback.h"
 
 #ifdef __cplusplus
 

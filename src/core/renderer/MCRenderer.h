@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCRENDERER_H
 
-#include <MailCore/MCHTMLRendererCallback.h>
-#include <MailCore/MCDateFormatter.h>
-#include <MailCore/MCAddressDisplay.h>
+#include "MCHTMLRendererCallback.h"
+#include "MCDateFormatter.h"
+#include "MCAddressDisplay.h"
 
 #endif

@@ -11,7 +11,7 @@
 #define MAILCORE_MCOPOPOPERATION_H
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOOperation.h>
+#import "MCOOperation.h"
 
 /**
  This is a generic asynchronous POP3 operation. 

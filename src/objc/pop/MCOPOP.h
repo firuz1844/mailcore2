@@ -10,11 +10,11 @@
 
 #define MAILCORE_MCOPOP_H
 
-#import <MailCore/MCOPOPSession.h>
-#import <MailCore/MCOPOPOperation.h>
-#import <MailCore/MCOPOPFetchHeaderOperation.h>
-#import <MailCore/MCOPOPFetchMessageOperation.h>
-#import <MailCore/MCOPOPFetchMessagesOperation.h>
-#import <MailCore/MCOPOPMessageInfo.h>
+#import "MCOPOPSession.h"
+#import "MCOPOPOperation.h"
+#import "MCOPOPFetchHeaderOperation.h"
+#import "MCOPOPFetchMessageOperation.h"
+#import "MCOPOPFetchMessagesOperation.h"
+#import "MCOPOPMessageInfo.h"
 
 #endif

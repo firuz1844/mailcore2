@@ -10,9 +10,9 @@
 
 #define MAILCORE_MCASYNC_H
 
-#include <MailCore/MCAsyncSMTP.h>
-#include <MailCore/MCAsyncIMAP.h>
-#include <MailCore/MCAsyncPOP.h>
-#include <MailCore/MCAsyncNNTP.h>
+#include "MCAsyncSMTP.h"
+#include "MCAsyncIMAP.h"
+#include "MCAsyncPOP.h"
+#include "MCAsyncNNTP.h"
 
 #endif

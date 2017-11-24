@@ -2,8 +2,8 @@
 
 #define MAILCORE_MCSMTPSESSION_H
 
-#include <MailCore/MCBaseTypes.h>
-#include <MailCore/MCMessageConstants.h>
+#include "MCBaseTypes.h"
+#include "MCMessageConstants.h"
 
 #ifdef __cplusplus
 

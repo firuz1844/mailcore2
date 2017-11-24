@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCOIMAPCUSTOMCOMMANDOPERATION_H
 
-#import <MailCore/MCOIMAPBaseOperation.h>
-#import <MailCore/MCOConstants.h>
+#import "MCOIMAPBaseOperation.h"
+#import "MCOConstants.h"
 
 NS_ASSUME_NONNULL_BEGIN
 @interface MCOIMAPCustomCommandOperation : MCOIMAPBaseOperation

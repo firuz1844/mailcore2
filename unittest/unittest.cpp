@@ -1,4 +1,4 @@
-#include <MailCore/MailCore.h>
+#include "MailCore.h"
 #include <dirent.h>
 #include <math.h>
 #include <time.h>

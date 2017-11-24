@@ -17,7 +17,7 @@
  @warn Not all servers support this.
 */
 
-#import <MailCore/MCOIMAPBaseOperation.h>
+#import "MCOIMAPBaseOperation.h"
 
 NS_ASSUME_NONNULL_BEGIN
 @interface MCOIMAPIdentityOperation : MCOIMAPBaseOperation

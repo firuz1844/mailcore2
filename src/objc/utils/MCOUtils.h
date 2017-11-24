@@ -10,18 +10,18 @@
 
 #define MAILCORE_MCOUTILS_H
 
-#import <MailCore/MCOObjectWrapper.h>
-#import <MailCore/NSData+MCO.h>
-#import <MailCore/NSString+MCO.h>
-#import <MailCore/NSDictionary+MCO.h>
-#import <MailCore/NSArray+MCO.h>
-#import <MailCore/NSObject+MCO.h>
-#import <MailCore/NSError+MCO.h>
-#import <MailCore/NSValue+MCO.h>
-#import <MailCore/MCOOperation.h>
-#import <MailCore/MCOConstants.h>
-#import <MailCore/MCOIndexSet.h>
-#import <MailCore/MCORange.h>
-#import <MailCore/NSIndexSet+MCO.h>
+#import "MCOObjectWrapper.h"
+#import "NSData+MCO.h"
+#import "NSString+MCO.h"
+#import "NSDictionary+MCO.h"
+#import "NSArray+MCO.h"
+#import "NSObject+MCO.h"
+#import "NSError+MCO.h"
+#import "NSValue+MCO.h"
+#import "MCOOperation.h"
+#import "MCOConstants.h"
+#import "MCOIndexSet.h"
+#import "MCORange.h"
+#import "NSIndexSet+MCO.h"
 
 #endif

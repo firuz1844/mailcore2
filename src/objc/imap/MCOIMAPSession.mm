@@ -19,7 +19,7 @@
 
 #import "MCOUtils.h"
 
-#import <MailCore/MCAsync.h>
+#import "MCAsync.h"
 
 #include "MCIMAPMessageRenderingOperation.h"
 #include "MCOperationQueueCallback.h"

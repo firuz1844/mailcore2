@@ -11,7 +11,7 @@
 #define MAILCORE_MCOABSTRACTMESSAGEPART_H
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOAbstractPart.h>
+#import "MCOAbstractPart.h"
 
 @class MCOMessageHeader;
 

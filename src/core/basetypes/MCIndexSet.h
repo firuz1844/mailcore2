@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCINDEXSET_H
 
-#include <MailCore/MCObject.h>
-#include <MailCore/MCRange.h>
+#include "MCObject.h"
+#include "MCRange.h"
 
 #ifdef __cplusplus
 

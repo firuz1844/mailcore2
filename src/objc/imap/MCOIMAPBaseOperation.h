@@ -12,7 +12,7 @@
 
 /** Represents a generic IMAP operation with methods that are called with progress updates */
 
-#import <MailCore/MCOOperation.h>
+#import "MCOOperation.h"
 
 typedef void (^MCOIMAPBaseOperationProgressBlock)(unsigned int current, unsigned int maximum);
 typedef void (^MCOIMAPBaseOperationItemProgressBlock)(unsigned int current);

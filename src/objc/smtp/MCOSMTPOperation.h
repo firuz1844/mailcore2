@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCOSMTPOPERATION_H
 
-#import <MailCore/MCOOperation.h>
+#import "MCOOperation.h"
 
 /** This is an asynchronous SMTP operation, used for sending messages. */
 

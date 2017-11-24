@@ -10,15 +10,15 @@
 
 #define MAILCORE_MCONNTP_H
 
-#include <MailCore/MCONNTPSession.h>
-#include <MailCore/MCONNTPOperation.h>
-#include <MailCore/MCONNTPFetchHeaderOperation.h>
-#include <MailCore/MCONNTPFetchArticleOperation.h>
-#include <MailCore/MCONNTPFetchAllArticlesOperation.h>
-#include <MailCore/MCONNTPListNewsgroupsOperation.h>
-#include <MailCore/MCONNTPFetchOverviewOperation.h>
-#include <MailCore/MCONNTPFetchServerTimeOperation.h>
-#include <MailCore/MCONNTPPostOperation.h>
-#include <MailCore/MCONNTPGroupInfo.h>
+#include "MCONNTPSession.h"
+#include "MCONNTPOperation.h"
+#include "MCONNTPFetchHeaderOperation.h"
+#include "MCONNTPFetchArticleOperation.h"
+#include "MCONNTPFetchAllArticlesOperation.h"
+#include "MCONNTPListNewsgroupsOperation.h"
+#include "MCONNTPFetchOverviewOperation.h"
+#include "MCONNTPFetchServerTimeOperation.h"
+#include "MCONNTPPostOperation.h"
+#include "MCONNTPGroupInfo.h"
 
 #endif

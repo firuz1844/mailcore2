@@ -10,8 +10,8 @@
 
 #define MAILCORE_MCSMTPOPERATION_H
 
-#include <MailCore/MCBaseTypes.h>
-#include <MailCore/MCSMTPProgressCallback.h>
+#include "MCBaseTypes.h"
+#include "MCSMTPProgressCallback.h"
 
 #ifdef __cplusplus
 

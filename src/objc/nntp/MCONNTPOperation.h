@@ -11,7 +11,7 @@
 #define MAILCORE_MCONNTPOPERATION_H
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOOperation.h>
+#import "MCOOperation.h"
 
 /** Transmit a message using NNTP3 */
 

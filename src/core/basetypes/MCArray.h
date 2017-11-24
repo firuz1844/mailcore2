@@ -2,7 +2,7 @@
 
 #define MAILCORE_MCARRAY_H
 
-#include <MailCore/MCObject.h>
+#include "MCObject.h"
 
 #ifdef __cplusplus
 

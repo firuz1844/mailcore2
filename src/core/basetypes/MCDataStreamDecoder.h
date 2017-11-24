@@ -12,9 +12,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include <MailCore/MCObject.h>
-#include <MailCore/MCData.h>
-#include <MailCore/MCMessageConstants.h>
+#include "MCObject.h"
+#include "MCData.h"
+#include "MCMessageConstants.h"
 
 #ifdef __cplusplus
 

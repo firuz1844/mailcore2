@@ -10,8 +10,8 @@
 
 #define MAILCORE_HTMLCLEANER_H
 
-#include <MailCore/MCString.h>
-#include <MailCore/MCUtils.h>
+#include "MCString.h"
+#include "MCUtils.h"
 
 #ifdef __cplusplus
 

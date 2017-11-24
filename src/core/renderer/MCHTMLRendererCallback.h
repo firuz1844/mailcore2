@@ -10,9 +10,9 @@
 
 #define MAILCORE_MCHTMLRENDERERCALLBACK_H
 
-#include <MailCore/MCAbstract.h>
-#include <MailCore/MCIMAP.h>
-#include <MailCore/MCUtils.h>
+#include "MCAbstract.h"
+#include "MCIMAP.h"
+#include "MCUtils.h"
 
 #ifdef __cplusplus
 

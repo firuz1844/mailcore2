@@ -10,9 +10,9 @@
 
 #define MAILCORE_MCSMTPSENDWITHDATAOPERATION_H
 
-#include <MailCore/MCBaseTypes.h>
-#include <MailCore/MCAbstract.h>
-#include <MailCore/MCSMTPOperation.h>
+#include "MCBaseTypes.h"
+#include "MCAbstract.h"
+#include "MCSMTPOperation.h"
 
 #ifdef __cplusplus
 

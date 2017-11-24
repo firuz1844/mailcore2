@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCNNTPOPERATIONCALLBACK_H
 
-#include <MailCore/MCUtils.h>
+#include "MCUtils.h"
 
 #ifdef __cplusplus
 

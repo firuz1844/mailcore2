@@ -10,9 +10,9 @@
 
 #define MAILCORE_MCIMAPDISCONNECTOPERATION_H
 
-#include <MailCore/MCBaseTypes.h>
-#include <MailCore/MCAbstract.h>
-#include <MailCore/MCIMAPOperation.h>
+#include "MCBaseTypes.h"
+#include "MCAbstract.h"
+#include "MCIMAPOperation.h"
 
 #ifdef __cplusplus
 

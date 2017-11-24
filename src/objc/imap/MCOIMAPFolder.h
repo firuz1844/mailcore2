@@ -13,7 +13,7 @@
 /** This class represents an IMAP folder */
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOConstants.h>
+#import "MCOConstants.h"
 
 @interface MCOIMAPFolder : NSObject <NSCopying>
 

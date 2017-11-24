@@ -10,7 +10,7 @@
 
 #define MAILCORE_TEST_ALL_H
 
-#include <MailCore/MailCore.h>
+#include "MailCore.h"
 
 extern void testAll();
 

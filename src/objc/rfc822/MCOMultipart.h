@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCOMULTIPART_H
 
-#import <MailCore/MCOAbstractMultipart.h>
+#import "MCOAbstractMultipart.h"
 
 /** Multipart parsed from RFC 822 message data. */
 

@@ -8,7 +8,7 @@
 #include <libkern/OSAtomic.h>
 #endif
 
-#include <MailCore/MCUtils.h>
+#include "MCUtils.h"
 
 #ifdef __cplusplus
 

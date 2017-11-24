@@ -13,8 +13,8 @@
 /** Used to construct an IMAP search query */
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCOConstants.h>
-#import <MailCore/MCOIndexSet.h>
+#import "MCOConstants.h"
+#import "MCOIndexSet.h"
 
 @interface MCOIMAPSearchExpression : NSObject
 

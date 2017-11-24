@@ -11,7 +11,7 @@
 #define MAILCORE_MCHTMLRENDERERIMAPDATACALLBACK_H
 
 #include "MCHTMLRendererCallback.h"
-#include <MailCore/MCUtils.h>
+#include "MCUtils.h"
 
 #ifdef __cplusplus
 

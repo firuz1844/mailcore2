@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCOHTMLRENDERERIMAPDELEGATE_H
 
-#import <MailCore/MCOHTMLRendererDelegate.h>
+#import "MCOHTMLRendererDelegate.h"
 
 /**
  This delegate protocol is used to fetch the content of the part of the message when the HTML render needs them.

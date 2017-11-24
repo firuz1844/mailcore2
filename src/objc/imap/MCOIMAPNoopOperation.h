@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCOIMAPNOOPOPERATION_H
 
-#import <MailCore/MCOIMAPBaseOperation.h>
+#import "MCOIMAPBaseOperation.h"
 
 NS_ASSUME_NONNULL_BEGIN
 /* The class is used to perform a No-Op operation. */

@@ -2,9 +2,9 @@
 
 #define MAILCORE_MCPARSEDMESSAGE_H
 
-#include <MailCore/MCBaseTypes.h>
-#include <MailCore/MCAbstractMessage.h>
-#include <MailCore/MCAbstractPart.h>
+#include "MCBaseTypes.h"
+#include "MCAbstractMessage.h"
+#include "MCAbstractPart.h"
 #ifdef __APPLE__
 #import <CoreFoundation/CoreFoundation.h>
 #endif

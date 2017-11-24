@@ -12,7 +12,7 @@
 
 /** This class implements an operation to fetch any IMAP namespaces. */
 
-#import <MailCore/MCOIMAPBaseOperation.h>
+#import "MCOIMAPBaseOperation.h"
 
 NS_ASSUME_NONNULL_BEGIN
 @interface MCOIMAPFetchNamespaceOperation : MCOIMAPBaseOperation

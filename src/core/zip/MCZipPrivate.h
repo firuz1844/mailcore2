@@ -9,7 +9,7 @@
 #ifndef mailcore2_MCZipMac_h
 #define mailcore2_MCZipMac_h
 
-#include <MailCore/MCBaseTypes.h>
+#include "MCBaseTypes.h"
 
 namespace mailcore {
     

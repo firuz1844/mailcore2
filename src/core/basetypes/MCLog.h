@@ -3,7 +3,7 @@
 #define MAILCORE_MCLOG_H
 
 #include <stdio.h>
-#include <MailCore/MCUtils.h>
+#include "MCUtils.h"
 
 #define MCLog(...) MCLogInternal(NULL, __FILE__, __LINE__, 0, __VA_ARGS__)
 #define MCLogStack(...) MCLogInternal(NULL, __FILE__, __LINE__, 1, __VA_ARGS__)

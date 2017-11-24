@@ -10,11 +10,11 @@
 
 #define MAILCORE_MCASYNCPOP_H
 
-#include <MailCore/MCPOPAsyncSession.h>
-#include <MailCore/MCPOPOperation.h>
-#include <MailCore/MCPOPFetchHeaderOperation.h>
-#include <MailCore/MCPOPFetchMessageOperation.h>
-#include <MailCore/MCPOPFetchMessagesOperation.h>
-#include <MailCore/MCPOPOperationCallback.h>
+#include "MCPOPAsyncSession.h"
+#include "MCPOPOperation.h"
+#include "MCPOPFetchHeaderOperation.h"
+#include "MCPOPFetchMessageOperation.h"
+#include "MCPOPFetchMessagesOperation.h"
+#include "MCPOPOperationCallback.h"
 
 #endif

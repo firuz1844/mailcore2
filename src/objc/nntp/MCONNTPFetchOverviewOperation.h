@@ -11,7 +11,7 @@
 #define MAILCORE_MCONNTPFETCHOVERVIEWOPERATION_H
 
 #import <Foundation/Foundation.h>
-#import <MailCore/MCONNTPOperation.h>
+#import "MCONNTPOperation.h"
 
 
 NS_ASSUME_NONNULL_BEGIN

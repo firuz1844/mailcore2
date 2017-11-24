@@ -10,12 +10,12 @@
 
 #define MAILCORE_MCJSON_H
 
-#include <MailCore/MCObject.h>
-#include <MailCore/MCHashMap.h>
-#include <MailCore/MCArray.h>
-#include <MailCore/MCValue.h>
-#include <MailCore/MCString.h>
-#include <MailCore/MCData.h>
+#include "MCObject.h"
+#include "MCHashMap.h"
+#include "MCArray.h"
+#include "MCValue.h"
+#include "MCString.h"
+#include "MCData.h"
 
 #ifdef __cplusplus
 

@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCPOPASYNCSESSION_H
 
-#include <MailCore/MCBaseTypes.h>
+#include "MCBaseTypes.h"
 
 #ifdef __cplusplus
 

@@ -10,7 +10,7 @@
 
 #define MAILCORE_MCOMESSAGEBUILDER_H
 
-#import <MailCore/MCOAbstractMessage.h>
+#import "MCOAbstractMessage.h"
 
 /**
  This class will allow you to build a RFC 822 formatted message.
